@@ -312,3 +312,31 @@ h1, h2, h3, h4, h5 ,h6{
 
     transition: opacity .1s linear;
 }
+
+/* Statistics */
+.statistics{
+    background-color: #95e1d3;
+}
+
+.stat{
+    display: flex;
+}
+
+.stat__item{
+    flex: 1 1 0;
+    padding: 70px 25px;
+    text-align: center;
+    color: white;
+}
+
+.stat__count{
+    margin-bottom: 10px;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.stat__text{
+    font-size: 14px;
+    text-transform: uppercase;
+}
