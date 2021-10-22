@@ -260,10 +260,55 @@ h1, h2, h3, h4, h5 ,h6{
 
 /* About */
 .about{
+    margin-top: 80px;
     display: flex;
     justify-content: space-between;
 }
 
 .about__item{
-    width: 30%;
+    width: 380px;
+    position: relative;
+
+    background-color: #95e1d3;
+}
+
+.about__item:hover .about__image{
+    transform: translate3d(-10px, -10px, 0);
+}
+
+.about__item:hover .about__image img{
+    opacity: .1;
+}
+
+.about__item:hover .about__text{
+    opacity: 1;
+}
+
+.about__image{
+    background: linear-gradient(to bottom, #f38181, #fce38a);
+
+    transition: transform .1s linear;
+}
+
+.about__image img{
+    display: block;
+    transition: opacity .1s linear;
+}
+
+.about__text{
+    width: 100%;
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    opacity: 0;
+
+    position: absolute;
+    top: 60%;
+    left: 0;
+    z-index: 2;
+    transform: translate3d(0,-50px,0);
+
+    transition: opacity .1s linear;
 }
