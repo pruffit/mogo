@@ -616,3 +616,9 @@ hr{
     background-color: #f38181;
     color: white;
 }
+
+/* Logos */
+.logos{
+    display: flex;
+    justify-content: space-between;
+}
