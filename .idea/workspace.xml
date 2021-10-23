@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="adaptive" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zrFVxkKPtR7WXtEk4O4Jd7l8or" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="" />
+      <created>1634898333239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634898333239</updated>
+      <workItem from="1634898368254" duration="60000" />
+      <workItem from="1634898448338" duration="19997000" />
+      <workItem from="1634919360406" duration="13588000" />
+      <workItem from="1634973436745" duration="12693000" />
+      <workItem from="1634986749879" duration="21254000" />
+      <workItem from="1635010925226" duration="4886000" />
+      <workItem from="1635016122794" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="We have started a new project. Connected git. Created a file index.html and style.css. We conducted the initial setup and tests.">
+      <created>1634898797680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634898797681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Wrote common styles">
+      <created>1634899723884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634899723884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create container">
+      <created>1634899973471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634899973471</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create head HTML and CSS">
+      <created>1634907237416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634907237416</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create section heading">
+      <created>1634909125939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634909125940</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update section heading">
+      <created>1634909292019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634909292019</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create About Section">
+      <created>1634910830536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634910830536</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update About Section">
+      <created>1634912886516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634912886516</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update2 About Section">
+      <created>1634913858270</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634913858271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create Services Section">
+      <created>1634917322810</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634917322810</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create Devices Section">
+      <created>1634919229403</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634919229403</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update Devices Section">
+      <created>1634919871064</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634919871065</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix Devices Section background">
+      <created>1634920362436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634920362436</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix Devices Section background">
+      <created>1634924661426</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634924661426</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Create Review Section">
+      <created>1634927760629</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1634927760629</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update About Section to Card Section.&#10;Create New Card Section.">
+      <created>1634971691775</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1634971691776</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update New Card Section.">
+      <created>1634973056134</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1634973056134</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Create Logos Section.">
+      <created>1634973729768</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634973729768</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update Logos Section.">
+      <created>1634974152568</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634974152568</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update2 Logos Section.">
+      <created>1634974483520</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1634974483520</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Create Works Section.">
+      <created>1634977592250</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1634977592250</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update Works Section.">
+      <created>1634978077505</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1634978077506</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Create Client Section.">
+      <created>1634981574756</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1634981574758</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Create Blog Section.">
+      <created>1634985190752</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1634985190753</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Create Map Section.">
+      <created>1634986588749</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1634986588749</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update Map Section.">
+      <created>1634986620949</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1634986620949</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Create Footer Section.">
+      <created>1634995889418</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1634995889418</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Load images">
+      <created>1634995924942</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1634995924942</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Change scrollbar.">
+      <created>1634997095040</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1634997095041</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update scrollbar.">
+      <created>1634997597968</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1634997597968</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adaptive 1 step.">
+      <created>1635002924173</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1635002924173</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Adaptive 2 step.">
+      <created>1635009434883</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635009434883</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Fix, end adaptive, begin from js">
+      <created>1635015556873</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1635015556873</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Fatal recreate">
+      <created>1635016419351</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1635016419351</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update2 About Section" />
+    <MESSAGE value="Create Services Section" />
+    <MESSAGE value="Create Devices Section" />
+    <MESSAGE value="Update Devices Section" />
+    <MESSAGE value="fix Devices Section background" />
+    <MESSAGE value="Create Review Section" />
+    <MESSAGE value="Update About Section to Card Section.&#10;Create New Card Section." />
+    <MESSAGE value="Update New Card Section." />
+    <MESSAGE value="Create Logos Section." />
+    <MESSAGE value="Update Logos Section." />
+    <MESSAGE value="Update2 Logos Section." />
+    <MESSAGE value="Create Works Section." />
+    <MESSAGE value="Update Works Section." />
+    <MESSAGE value="Create Client Section." />
+    <MESSAGE value="Create Blog Section." />
+    <MESSAGE value="Create Map Section." />
+    <MESSAGE value="Update Map Section." />
+    <MESSAGE value="Create Footer Section." />
+    <MESSAGE value="Load images" />
+    <MESSAGE value="Change scrollbar." />
+    <MESSAGE value="Update scrollbar." />
+    <MESSAGE value="Adaptive 1 step." />
+    <MESSAGE value="Adaptive 2 step." />
+    <MESSAGE value="Fix, end adaptive, begin from js" />
+    <MESSAGE value="Fatal recreate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fatal recreate" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635016416432">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635016416432" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1635016118615">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1635016118615" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1634898474726">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1634898474726" />
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634924640147">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1634924640147" />
+  </component>
+</project>
