@@ -625,59 +625,62 @@ hr{
 }
 
 /* Works */
-.container__works{
-
-}
-
-.works{
+.works {
     display: flex;
 }
 
-.works__col{
+.works__col {
     flex: 1 1 0;
 }
 
-.works__item{
+.works__item {
     position: relative;
+
     background: linear-gradient(to bottom, #f38181, #fce38a);
 }
 
-.works__item:hover .works__image{
+.works__item:hover .works__image {
     opacity: .1;
 }
 
-.works__item:hover .works__info{
+.works__item:hover .works__info {
     opacity: 1;
 }
 
-.works__image{
+.works__image {
     display: block;
-    transition: opacity .1s linear;
+    max-width: 100%;
+    height: auto;
+
+    transition: opacity .2s linear;
 }
 
-.works__info{
+.works__info {
     width: 100%;
     padding: 0 15px;
-    position: absolute;
+
     text-align: center;
-    color: white;
+    color: #fff;
     opacity: 0;
+
+    position: absolute;
     top: 50%;
     left: 0;
     z-index: 1;
 
-    transform: translate3d(0,-50%,0);
-    transition: opacity .1s linear;
+    transform: translate3d(0, -50%, 0);
+    transition: opacity .2s linear;
 }
 
-.works__title{
+.works__title {
     margin-bottom: 5px;
+
     font-size: 14px;
     text-transform: uppercase;
 }
 
-.works__text{
+.works__text {
     font-size: 15px;
-    font-style: italic;
     font-weight: 300;
+    font-style: italic;
 }
