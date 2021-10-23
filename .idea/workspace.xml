@@ -64,6 +64,7 @@
       <workItem from="1634986749879" duration="21254000" />
       <workItem from="1635010925226" duration="4886000" />
       <workItem from="1635016122794" duration="548000" />
+      <workItem from="1635016843427" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="We have started a new project. Connected git. Created a file index.html and style.css. We conducted the initial setup and tests.">
       <created>1634898797680</created>
@@ -303,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635016419351</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Fatal recreate">
+      <created>1635016871782</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635016871782</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,10 +358,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fatal recreate" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635016416432">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635016866996">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635016416432" />
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635016866996" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1635016118615">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
