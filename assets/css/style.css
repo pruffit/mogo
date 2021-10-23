@@ -7,6 +7,21 @@ body{
 
 }
 
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background: #95e1d3;
+    box-shadow: 0 0 .2px rgba(0,0,0,.2) inset;
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(to bottom, #f38181, #fce38a);
+    border-radius: 8px;
+    border: 3px solid #95e1d3;
+}
+
 *,
 *:before,
 *:after{
