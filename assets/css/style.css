@@ -1087,7 +1087,7 @@ hr {
 /* Footer */
 .footer {
     padding-top: 65px;
-    background: linear-gradient(to bottom, #f8f8f8, #f8f8f8, #f8f8f8, #f8f8f8, #f8f8f8, #fce38a, #f38181);
+    background: linear-gradient(to bottom, #f8f8f8, #fce38a, #f38181);
 }
 
 .footer__inner {
@@ -1130,10 +1130,10 @@ hr {
 }
 
 .footer__text {
+    font-family: 'Kaushan Script', cursive;
     margin-bottom: 30px;
-
-    font-size: 15px;
-    color: #999;
+    font-size: 30px;
+    color: #f38181;
 }
 
 .footer__social {
@@ -1146,7 +1146,7 @@ hr {
     font-size: 14px;
     color: #333;
 
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 2px solid white;
 }
 
 .footer__social-header b {
@@ -1155,10 +1155,9 @@ hr {
 
 .footer__social-content {
     padding-top: 15px;
-
-    font-size: 15px;
-    color: #999;
-    font-style: italic;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+    color: white;
     font-weight: 300;
 }
 
@@ -1167,8 +1166,8 @@ hr {
     vertical-align: middle;
     margin-left: 10px;
 
-    font-size: 18px;
-    color: #95e1d3;
+    font-size: 22px;
+    color: #f38181;
 }
 
 .footer__title {
@@ -1303,16 +1302,16 @@ hr {
 /* Copyright */
 .copyright {
     padding: 20px 0;
+    font-family: 'Kaushan Script', cursive;
+    border-top: 3px solid white;
 
-    border-top: 1px solid #e5e5e5;
-
-    font-size: 14px;
-    color: #333;
+    font-size: 20px;
+    color: white;
     text-align: center;
 }
 
 .copyright span {
-    color: #f38181;
+    color: #fce38a;
 }
 
 
