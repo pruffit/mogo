@@ -826,7 +826,7 @@ hr {
 }
 
 .works__col {
-    flex: 1 1 0;
+    width: 100%;
 }
 
 .works__item {
