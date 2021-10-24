@@ -121,7 +121,7 @@ hr {
 
 .header.fixed {
     padding: 10px 0;
-    background-color: #eb8b8d;
+    background-color: #f38181;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
 
     position: fixed;
@@ -133,7 +133,7 @@ hr {
 }
 
 .header.active {
-    background-color: #eb8b8d;
+    background-color: #f38181;
 }
 
 .header__inner {

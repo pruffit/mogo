@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="js" />
+        <entry key="$PROJECT_DIR$" value="Fix" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +67,7 @@
       <workItem from="1635010925226" duration="4886000" />
       <workItem from="1635016122794" duration="548000" />
       <workItem from="1635016843427" duration="4742000" />
-      <workItem from="1635053456858" duration="1222000" />
+      <workItem from="1635053456858" duration="1664000" />
     </task>
     <task id="LOCAL-00001" summary="We have started a new project. Connected git. Created a file index.html and style.css. We conducted the initial setup and tests.">
       <created>1634898797680</created>
@@ -393,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635052676737</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Create JS head">
+      <created>1635054953572</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1635054953572</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +417,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Devices Section" />
     <MESSAGE value="Update Devices Section" />
     <MESSAGE value="fix Devices Section background" />
     <MESSAGE value="Create Review Section" />
@@ -437,7 +441,8 @@
     <MESSAGE value="Fatal recreate" />
     <MESSAGE value="Test" />
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="Create JS head" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create JS head" />
   </component>
   <component name="WindowStateProjectService">
     <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635052673842">
