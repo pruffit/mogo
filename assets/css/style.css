@@ -1633,7 +1633,10 @@ hr {
         margin: 0 auto;
     }
 
+    .works__col {
 
+        width: 50%;
+    }
 
 
     /* Clients */
