@@ -1584,12 +1584,6 @@ hr {
     /* Stat */
     .stat__item {
         width: 100%;
-
-        border-bottom: 1px solid #b5eae0;
-    }
-
-    .stat__item:last-child {
-        border-bottom: 0;
     }
 
     .stat__count {
