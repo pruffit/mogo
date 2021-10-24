@@ -70,7 +70,7 @@
       <workItem from="1635010925226" duration="4886000" />
       <workItem from="1635016122794" duration="548000" />
       <workItem from="1635016843427" duration="4742000" />
-      <workItem from="1635053456858" duration="4815000" />
+      <workItem from="1635053456858" duration="7956000" />
     </task>
     <task id="LOCAL-00001" summary="We have started a new project. Connected git. Created a file index.html and style.css. We conducted the initial setup and tests.">
       <created>1634898797680</created>
@@ -408,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635055204073</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Update JS head 2">
+      <created>1635058438679</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1635058438679</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +434,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix Devices Section background" />
     <MESSAGE value="Create Review Section" />
     <MESSAGE value="Update About Section to Card Section.&#10;Create New Card Section." />
     <MESSAGE value="Update New Card Section." />
@@ -452,13 +458,14 @@
     <MESSAGE value="Fix" />
     <MESSAGE value="Create JS head" />
     <MESSAGE value="Update JS head" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update JS head" />
+    <MESSAGE value="Update JS head 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update JS head 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635055202249">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635058435451">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635055202249" />
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635058435451" />
     <state x="0" y="68" key="DiffContextDialog" timestamp="1635049243807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -475,5 +482,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1634924640147" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1635059689799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1635059689799" />
   </component>
 </project>
