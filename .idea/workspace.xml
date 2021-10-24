@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -70,14 +69,7 @@
       <workItem from="1635016122794" duration="548000" />
       <workItem from="1635016843427" duration="4742000" />
       <workItem from="1635053456858" duration="9462000" />
-      <workItem from="1635073918011" duration="1764000" />
-    </task>
-    <task id="LOCAL-00004" summary="Create head HTML and CSS">
-      <created>1634907237416</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1634907237416</updated>
+      <workItem from="1635073918011" duration="2131000" />
     </task>
     <task id="LOCAL-00005" summary="Create section heading">
       <created>1634909125939</created>
@@ -415,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635063216544</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Realise v1.0.3">
+      <created>1635075795331</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075795333</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Logos Section." />
     <MESSAGE value="Update Logos Section." />
     <MESSAGE value="Update2 Logos Section." />
     <MESSAGE value="Create Works Section." />
@@ -459,13 +457,14 @@
     <MESSAGE value="Realise v1.0.0" />
     <MESSAGE value="Realise v1.0.1" />
     <MESSAGE value="Realise v1.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realise v1.0.2" />
+    <MESSAGE value="Realise v1.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realise v1.0.3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635063214834">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635075792337">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635063214834" />
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635075792337" />
     <state x="0" y="68" key="DiffContextDialog" timestamp="1635049243807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

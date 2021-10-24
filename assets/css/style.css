@@ -1132,8 +1132,8 @@ hr {
 .footer__text {
     font-family: 'Kaushan Script', cursive;
     margin-bottom: 30px;
-    font-size: 30px;
-    color: #f38181;
+    font-size: 18px;
+    color: white;
 }
 
 .footer__social {
