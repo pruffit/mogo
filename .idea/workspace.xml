@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <workItem from="1634986749879" duration="21254000" />
       <workItem from="1635010925226" duration="4886000" />
       <workItem from="1635016122794" duration="548000" />
-      <workItem from="1635016843427" duration="2396000" />
+      <workItem from="1635016843427" duration="2801000" />
     </task>
     <task id="LOCAL-00001" summary="We have started a new project. Connected git. Created a file index.html and style.css. We conducted the initial setup and tests.">
       <created>1634898797680</created>
@@ -342,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635049581463</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Fix">
+      <created>1635051102538</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1635051102538</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +365,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Services Section" />
     <MESSAGE value="Create Devices Section" />
     <MESSAGE value="Update Devices Section" />
     <MESSAGE value="fix Devices Section background" />
@@ -386,13 +389,14 @@
     <MESSAGE value="Fix, end adaptive, begin from js" />
     <MESSAGE value="Fatal recreate" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635049578983">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635051099832">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635049578983" />
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635051099832" />
     <state x="0" y="68" key="DiffContextDialog" timestamp="1635049243807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
