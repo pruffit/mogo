@@ -1087,8 +1087,7 @@ hr {
 /* Footer */
 .footer {
     padding-top: 65px;
-
-    background-color: #f8f8f8;
+    background: linear-gradient(to bottom, #f8f8f8, #f8f8f8, #f8f8f8, #f8f8f8, #f8f8f8, #fce38a, #f38181);
 }
 
 .footer__inner {
