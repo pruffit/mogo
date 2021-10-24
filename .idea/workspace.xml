@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a14cc03-b168-4145-a6b3-c2e91a11bd29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +67,7 @@
       <workItem from="1635010925226" duration="4886000" />
       <workItem from="1635016122794" duration="548000" />
       <workItem from="1635016843427" duration="4742000" />
-      <workItem from="1635053456858" duration="8901000" />
-    </task>
-    <task id="LOCAL-00002" summary="Wrote common styles">
-      <created>1634899723884</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1634899723884</updated>
+      <workItem from="1635053456858" duration="9192000" />
     </task>
     <task id="LOCAL-00003" summary="Create container">
       <created>1634899973471</created>
@@ -413,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635061931848</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Realise v1.0.1">
+      <created>1635062662369</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1635062662369</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +431,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update About Section to Card Section.&#10;Create New Card Section." />
     <MESSAGE value="Update New Card Section." />
     <MESSAGE value="Create Logos Section." />
     <MESSAGE value="Update Logos Section." />
@@ -457,13 +455,14 @@
     <MESSAGE value="Update JS head" />
     <MESSAGE value="Update JS head 2" />
     <MESSAGE value="Realise v1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realise v1.0.0" />
+    <MESSAGE value="Realise v1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realise v1.0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635061930070">
+    <state x="135" y="0" key="CommitChangelistDialog2" timestamp="1635062660333">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635061930070" />
+    <state x="135" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1635062660333" />
     <state x="0" y="68" key="DiffContextDialog" timestamp="1635049243807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

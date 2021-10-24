@@ -1119,7 +1119,14 @@ hr {
 
     font-size: 46px;
     font-weight: 700;
+}
+
+.mogo{
     color: #ccc;
+
+    background: linear-gradient(45deg, #f38181, #fce38a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .footer__text {
